@@ -1,6 +1,6 @@
 [submodule "astrbot_plugin_napcat"]
 	path = astrbot_plugin_napcat
-	url = ./astrbot_plugin_napcat
+	url = https://github.com/Reiticia/astrbot_plugin_napcat
 [submodule "astrbot_plugin_output_tags"]
 	path = astrbot_plugin_output_tags
 	url = https://github.com/Reiticia/astrbot_plugin_output_tags
